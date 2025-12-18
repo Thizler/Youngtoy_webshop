@@ -27,26 +27,26 @@ Youngtoy Webshop คือเว็บแอปร้านค้าออนไ
 
 ## 📂 Project Structure
 
-Youngtoy_webshop/
-├── admin/
-├── bootstrap-5.3.3-dist/
-├── image/
-├── public/
-├── src/
-├── cart.php
-├── condb.php
-├── menu.php
-├── menu.css
-├── show_product.php
-├── insert_cart.php
-├── order.php
-├── payment.php
-├── insertpayment.php
-├── print_order.php
-├── package.json
-├── .gitignore
-└── README.md
-
+Youngtoy_webshop/  
+├── admin/  
+├── bootstrap-5.3.3-dist/  
+├── image/  
+├── public/  
+├── src/  
+├── cart.php  
+├── condb.php  
+├── menu.php  
+├── menu.css  
+├── show_product.php  
+├── insert_cart.php  
+├── order.php  
+├── payment.php  
+├── insertpayment.php  
+├── print_order.php  
+├── package.json  
+├── .gitignore  
+└── README.md  
+  
 ---
 
 ## 🚀 Installation
