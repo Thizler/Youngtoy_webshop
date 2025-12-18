@@ -115,3 +115,10 @@ print_order.php — พิมพ์ใบสั่งซื้อ
 เชื่อมต่อระบบชำระเงินจริง (Payment Gateway)
 
 ปรับ UI/UX ให้รองรับมือถือมากขึ้น
+  
+## Authors  
+Department of Computer Science, Srinakharinwirot University
+- Kunanon Hareutaitam - kunanon.mas@g.swu.ac.th
+- Renuka Pollok - renuka.pollok@g.swu.ac.th
+- Iladageokping Chua - iladageokping.chua@g.swu.ac.th
+
